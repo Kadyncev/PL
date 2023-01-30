@@ -1,0 +1,15 @@
+C:\Users\M\Desktop\PL\end3\bin\Debug\net6.0\end3.exe
+C:\Users\M\Desktop\PL\end3\bin\Debug\net6.0\end3.deps.json
+C:\Users\M\Desktop\PL\end3\bin\Debug\net6.0\end3.runtimeconfig.json
+C:\Users\M\Desktop\PL\end3\bin\Debug\net6.0\end3.dll
+C:\Users\M\Desktop\PL\end3\bin\Debug\net6.0\ref\end3.dll
+C:\Users\M\Desktop\PL\end3\bin\Debug\net6.0\end3.pdb
+C:\Users\M\Desktop\PL\end3\obj\Debug\net6.0\end3.csproj.AssemblyReference.cache
+C:\Users\M\Desktop\PL\end3\obj\Debug\net6.0\end3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M\Desktop\PL\end3\obj\Debug\net6.0\end3.AssemblyInfoInputs.cache
+C:\Users\M\Desktop\PL\end3\obj\Debug\net6.0\end3.AssemblyInfo.cs
+C:\Users\M\Desktop\PL\end3\obj\Debug\net6.0\end3.csproj.CoreCompileInputs.cache
+C:\Users\M\Desktop\PL\end3\obj\Debug\net6.0\end3.dll
+C:\Users\M\Desktop\PL\end3\obj\Debug\net6.0\ref\end3.dll
+C:\Users\M\Desktop\PL\end3\obj\Debug\net6.0\end3.pdb
+C:\Users\M\Desktop\PL\end3\obj\Debug\net6.0\end3.genruntimeconfig.cache
