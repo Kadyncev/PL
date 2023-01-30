@@ -1,0 +1,15 @@
+C:\Users\M\Desktop\PL\end2\bin\Debug\net6.0\end2.exe
+C:\Users\M\Desktop\PL\end2\bin\Debug\net6.0\end2.deps.json
+C:\Users\M\Desktop\PL\end2\bin\Debug\net6.0\end2.runtimeconfig.json
+C:\Users\M\Desktop\PL\end2\bin\Debug\net6.0\end2.dll
+C:\Users\M\Desktop\PL\end2\bin\Debug\net6.0\ref\end2.dll
+C:\Users\M\Desktop\PL\end2\bin\Debug\net6.0\end2.pdb
+C:\Users\M\Desktop\PL\end2\obj\Debug\net6.0\end2.csproj.AssemblyReference.cache
+C:\Users\M\Desktop\PL\end2\obj\Debug\net6.0\end2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M\Desktop\PL\end2\obj\Debug\net6.0\end2.AssemblyInfoInputs.cache
+C:\Users\M\Desktop\PL\end2\obj\Debug\net6.0\end2.AssemblyInfo.cs
+C:\Users\M\Desktop\PL\end2\obj\Debug\net6.0\end2.csproj.CoreCompileInputs.cache
+C:\Users\M\Desktop\PL\end2\obj\Debug\net6.0\end2.dll
+C:\Users\M\Desktop\PL\end2\obj\Debug\net6.0\ref\end2.dll
+C:\Users\M\Desktop\PL\end2\obj\Debug\net6.0\end2.pdb
+C:\Users\M\Desktop\PL\end2\obj\Debug\net6.0\end2.genruntimeconfig.cache
